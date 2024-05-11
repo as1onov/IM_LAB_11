@@ -1,0 +1,28 @@
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\bin\Debug\Lab11.NormalDistribution.exe.config
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\bin\Debug\Lab11.NormalDistribution.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\bin\Debug\Lab11.NormalDistribution.pdb
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.ChartForm.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.MainForm.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.Properties.Resources.resources
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.csproj.GenerateResource.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.exe
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.pdb
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\bin\Debug\MathNet.Numerics.dll
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\bin\Debug\MathNet.Numerics.xml
+C:\Users\Asus\Desktop\C#\Лабораторные ИМ\Lab11.NormalDistribution\obj\Debug\Lab11.No.4E670B61.Up2Date
+C:\Users\umid\source\repos\Lab11.NormalDistribution\bin\Debug\Lab11.NormalDistribution.exe.config
+C:\Users\umid\source\repos\Lab11.NormalDistribution\bin\Debug\Lab11.NormalDistribution.exe
+C:\Users\umid\source\repos\Lab11.NormalDistribution\bin\Debug\Lab11.NormalDistribution.pdb
+C:\Users\umid\source\repos\Lab11.NormalDistribution\bin\Debug\MathNet.Numerics.dll
+C:\Users\umid\source\repos\Lab11.NormalDistribution\bin\Debug\MathNet.Numerics.xml
+C:\Users\umid\source\repos\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.csproj.AssemblyReference.cache
+C:\Users\umid\source\repos\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.ChartForm.resources
+C:\Users\umid\source\repos\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.MainForm.resources
+C:\Users\umid\source\repos\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.Properties.Resources.resources
+C:\Users\umid\source\repos\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.csproj.GenerateResource.cache
+C:\Users\umid\source\repos\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.csproj.CoreCompileInputs.cache
+C:\Users\umid\source\repos\Lab11.NormalDistribution\obj\Debug\Lab11.No.4E670B61.Up2Date
+C:\Users\umid\source\repos\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.exe
+C:\Users\umid\source\repos\Lab11.NormalDistribution\obj\Debug\Lab11.NormalDistribution.pdb
